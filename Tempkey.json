@@ -40,5 +40,12 @@
     "password": "arpit",
     "expiresAt": "2025-12-31",
     "allowOffline": true
+  },
+  {
+    "id": "f54d1753f8166b93",
+    "username": "pintulkr",
+    "password": "pintulkr",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
   }
 ]
