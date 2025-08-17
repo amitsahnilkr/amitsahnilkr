@@ -47,5 +47,12 @@
     "password": "pintulkr",
     "expiresAt": "2025-12-31",
     "allowOffline": true
+  },
+  {
+    "id": "8eae9a36e5c5206e",
+    "username": "janu",
+    "password": "janu",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
   }
 ]
