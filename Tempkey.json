@@ -61,5 +61,12 @@
     "password": "talib",
     "expiresAt": "2025-12-31",
     "allowOffline": true
-   }
+   },
+  {
+    "id": "fc8143d2e21b9a47",
+    "username": "talib",
+    "password": "talib",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  }
 ]
