@@ -96,5 +96,12 @@
     "password": "talibhacker",
     "expiresAt": "2025-12-31",
     "allowOffline": true
+  },
+  {
+    "id": "671a735861a08da8",
+    "username": "talibhacker",
+    "password": "talibhacker",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
   }
 ]
