@@ -117,5 +117,12 @@
     "password": "bkbhaskar",
     "expiresAt": "2025-12-31",
     "allowOffline": true
+  },
+  {
+    "id": "dee43555b65c54e1",
+    "username": "bkbhaskar",
+    "password": "bkbhaskar",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
   }
 ]
