@@ -124,5 +124,12 @@
     "password": "bkbhaskar",
     "expiresAt": "2025-12-31",
     "allowOffline": true
+  },
+  {
+    "id": "947b28ba92ee4975",
+    "username": "kaptan",
+    "password": "kaptan",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
   }
 ]
