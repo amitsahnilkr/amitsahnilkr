@@ -131,5 +131,40 @@
     "password": "kaptan",
     "expiresAt": "2025-12-31",
     "allowOffline": true
+  },
+  {
+    "id": "88a6bdbe0207c8b5",
+    "username": "talibhacker",
+    "password": "talibhacker",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "c32ec0cebff0e2e2",
+    "username": "talibhacker",
+    "password": "talibhacker",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "1731a0d1da4628f8",
+    "username": "talibhacker",
+    "password": "talibhacker",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "4adeee45a25aaeb0",
+    "username": "talibhacker",
+    "password": "talibhacker",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "c50280736b950d71",
+    "username": "talibhacker",
+    "password": "talibhacker",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
   }
 ]
