@@ -166,5 +166,12 @@
     "password": "talibhacker",
     "expiresAt": "2025-12-31",
     "allowOffline": true
+  },
+  {
+    "id": "f13424ce0604d6a1",
+    "username": "arnav",
+    "password": "arnav",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
   }
 ]
